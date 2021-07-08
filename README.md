@@ -1,5 +1,7 @@
 # swift-async-await
 
+[English version](https://github.com/reisdev/swift-async-await/blob/main/README-en.md)
+
 Aplicação simples com uma comparação entre DispatchQueue e Async/Await, disponível na versão 5.5 da linguagem Swift.
 
 ## Como usar
