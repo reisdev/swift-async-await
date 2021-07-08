@@ -7,7 +7,7 @@ Aplicação simples com uma comparação entre DispatchQueue e Async/Await, disp
 ## Como usar
 
 O requisito mínimo para executar essa aplicação é a versão 13 do Xcode, que já conta com suporte ao iOS 15.0 e Swift 5.5.
-Você pode baixar o Xcode 13 beta 3 clicando [aqui](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_13_beta_2/Xcode_13_beta_2.xip)
+Você pode baixar o Xcode 13 beta 2 clicando [aqui](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_13_beta_2/Xcode_13_beta_2.xip)
 
 Para obter o projeto, você pode clonar este repositório usando o comando abaixo:
 
